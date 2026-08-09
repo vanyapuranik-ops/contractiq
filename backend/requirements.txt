@@ -1,0 +1,2 @@
+langchain==0.2.5
+langchain-text-splitters==0.2.2
